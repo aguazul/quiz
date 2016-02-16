@@ -62,7 +62,7 @@ There are three tables (provided as CSVs) in the sample data set:
   - date: date that consent was received; provided dates are complete
 
 ### Goal:
-Develop and document a script that generates a data validation report.  This
+Develop and document an R script that generates a data validation report.  This
 script should perform the following operations:
 
 - Combine (join) the above data tables to align `patient_id`'s with only `"blood"` 
